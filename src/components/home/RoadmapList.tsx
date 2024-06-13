@@ -7,7 +7,7 @@ const RoadmapList = () => {
 
 	return (
 		<>
-			<h2 className="font-semibold text-3xl mt-12">Roadmap list</h2>
+			<h2 className="font-semibold text-3xl my-8">Roadmap list</h2>
 
 			{roadmapList.length ? (
 				<div className="flex-jc-c flex-wrap gap-4">

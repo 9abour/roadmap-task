@@ -12,7 +12,7 @@ const HomePage = () => {
 			<HorizontalDivider
 				height="h-[2px]"
 				bgColor="bg-[#E0E0E0]"
-				customStyles="my-12"
+				customStyles="!my-12"
 			/>
 			<CreateRoadmapForm />
 		</div>

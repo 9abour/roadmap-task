@@ -35,7 +35,7 @@ const CreateRoadmapForm = () => {
 
 	return (
 		<>
-			<h2 className="font-semibold text-3xl mb-4">Create roadmap</h2>
+			<h2 className="font-semibold text-3xl my-8">Create roadmap</h2>
 
 			<form>
 				<FormInput
